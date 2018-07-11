@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Sharding-Sphere is a ecosystem of transport distributed database middleware, focus on data sharding, distribute transaction and database orchestration. It provides maximum compatibilities for applications by JDBC driver or database protocols proxy.
+Sharding-Sphere is an ecosystem of transparent distributed database middleware, focusing on data sharding, distributed transaction and database orchestration. It provides maximum compatibility for applications through Sharding-JDBC (a driver to implement JDBC) or Sharding-Proxy (a proxy to implement database transfer protocol).
 
 ## Proposal
 
